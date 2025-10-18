@@ -321,7 +321,7 @@
             <div class="header-content">
                 <div class="logo">
                     <span class="logo-icon">⚒️</span>
-                    <h1>Analisis Hygiene Tambang</h1>
+                    <h1>Alat Bantu Analisis Hygiene Bagi Crew HSET Job Site WBN</h1>
                 </div>
                 <nav>
                     <ul>
@@ -337,7 +337,7 @@
     
     <section class="hero">
         <div class="container">
-            <h2>Sistem Monitoring Hygiene Industri Pertambangan</h2>
+            <h2>Alat Bantu Calculator Hygiene Untuk Crew HSET Job Site WBN</h2>
             <p>Platform untuk menganalisis dan memantau parameter lingkungan kerja di area pertambangan untuk memastikan keselamatan dan kesehatan pekerja</p>
         </div>
     </section>
@@ -579,7 +579,7 @@
     
     <footer>
         <div class="container">
-            <p>&copy; 2023 Sistem Analisis Hygiene Industri Pertambangan. Semua hak dilindungi.</p>
+            <p>&copy; 2025 Sistem Analisis Hygiene Industri Pertambangan. By Nanda Fachry - Safety Officer System and Compliance.</p>
         </div>
     </footer>
     
